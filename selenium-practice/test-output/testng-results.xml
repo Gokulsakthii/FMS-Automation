@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-09-28T15:39:17 IST" name="Default suite" finished-at="2026-09-28T15:39:21 IST" duration-ms="3404">
+  <suite started-at="2026-09-29T13:02:07 IST" name="Default suite" finished-at="2026-09-29T13:02:15 IST" duration-ms="7752">
     <groups>
     </groups>
-    <test started-at="2026-09-28T15:39:17 IST" name="Default test" finished-at="2026-09-28T15:39:21 IST" duration-ms="3404">
+    <test started-at="2026-09-29T13:02:07 IST" name="Default test" finished-at="2026-09-29T13:02:15 IST" duration-ms="7752">
       <class name="com.selenium.fms.tests.LoginTest">
-        <test-method signature="loginTest()[pri:0, instance:com.selenium.fms.tests.LoginTest@409bf450]" started-at="2026-09-28T15:39:17 IST" name="loginTest" finished-at="2026-09-28T15:39:21 IST" duration-ms="3359" status="PASS">
+        <test-method signature="loginTest()[pri:0, instance:com.selenium.fms.tests.LoginTest@4d5d943d]" started-at="2026-09-29T13:02:07 IST" name="loginTest" finished-at="2026-09-29T13:02:15 IST" duration-ms="7707" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
